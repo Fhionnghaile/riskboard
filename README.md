@@ -4,7 +4,7 @@
 > **Security posture quantified in money a board can act on.**  
 > **Result:** 11 tests — Monte-Carlo validated against the analytic expectation, monotonic control effect, framework-ID validation.  
 > **Reproduce:** `pytest -q`  
-> ![CI](https://github.com/fhionnghaile/riskboard/actions/workflows/ci.yml/badge.svg)
+> ![CI](https://github.com/fhionnghaile/riskboard/actions/workflows/ci.yml/badge.svg) [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/Fhionnghaile/riskboard/badge)](https://scorecard.dev/viewer/?uri=github.com/Fhionnghaile/riskboard)
 >
 > **What this is worth:** Lets leadership compare security spend to risk bought down, in the same currency as every other business decision.
 
