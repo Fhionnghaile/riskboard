@@ -6,7 +6,7 @@
 > **Reproduce:** `pytest -q`  
 > ![CI](https://github.com/fhionnghaile/riskboard/actions/workflows/ci.yml/badge.svg) [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/Fhionnghaile/riskboard/badge)](https://scorecard.dev/viewer/?uri=github.com/Fhionnghaile/riskboard)
 >
-> **What this is worth:** Lets leadership compare security spend to risk bought down, in the same currency as every other business decision.
+> **What this is worth:** On the sample register, modelled exposure falls from $7.55M to $1.98M a year (74% bought down), and the one unfunded control is priced at $120k a year of risk removed: security spend and risk in the same currency.
 
 
 A small, dependency-light risk register that turns security posture into **money the
