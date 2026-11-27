@@ -115,3 +115,8 @@ hand-authored estimates, exactly as a risk workshop produces them. All figures a
 - Outputs are only as good as the input frequencies/magnitudes — calibrate to your loss data.
 - Its companion `risk-optimizer` turns this into an exact spend optimum.
 
+## Decision paper, threat model, decisions
+- [`report/BOARD-PAPER.md`](report/BOARD-PAPER.md): a one-page decision paper for a risk committee, including bad-year (P90/P99) portfolio losses and what the numbers cannot tell you (`report/portfolio_tail.py` reproduces them).
+- [`docs/THREAT-MODEL.md`](docs/THREAT-MODEL.md): STRIDE plus model risk, with evidence and stated gaps.
+- [`docs/adr/`](docs/adr/): architecture decision records.
+
